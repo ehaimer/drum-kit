@@ -3,11 +3,15 @@ html {
   text-transform: uppercase;
 }
 
-h1 {
+h1, h2 {
   color: hsl(332, 87%, 61%);
   text-align: center;
   font-size: 1.2rem;
   margin-top: 4rem;
+}
+
+h2 {
+  margin-top: 2.5rem;
 }
 
 .keys {
@@ -60,7 +64,7 @@ p {
     margin-top: 4rem;
   }
 
-  h1 {
+  h1, h2 {
     font-size: 1.8rem;
   }
 
